@@ -9,11 +9,11 @@ const Footer = () => {
             Crafted by{' '}
             <a
               className="text-indigo-500 hover:text-indigo-800 dark:text-gray-300 dark:hover:text-gray-600"
-              href="https://denniskigen.com"
+              href="https://kanakshilledar.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Dennis
+              Kanak
             </a>{' '}
           </span>
         </div>
